@@ -1,0 +1,8 @@
+manim
+streamlit
+numpy
+matplotlib
+scipy
+pandas
+plotly
+Pillow
